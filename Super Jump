@@ -1,0 +1,2 @@
+local lp = game:GetService"Players".LocalPlayer
+local HulkJump = Instance.new("IntValue",lp.Character.BodyEffects.Movement);HulkJump.Name = "HulkJump"
