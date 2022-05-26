@@ -1,1 +1,6 @@
-
+while true do
+local Animate = game.Players.LocalPlayer.Character.Animate
+Animate.run.RunAnim.AnimationId = "https://www.roblox.com/catalog/658830056"
+game.Players.LocalPlayer.Character.Humanoid.Jump = false
+wait(1)
+end
