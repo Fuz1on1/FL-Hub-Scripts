@@ -1,0 +1,2 @@
+local lp = game:GetService"Players".LocalPlayer
+local SuperSpeed = Instance.new("IntValue",lp.Character.BodyEffects.Movement);SuperSpeed.Name = "SuperSpeed"
