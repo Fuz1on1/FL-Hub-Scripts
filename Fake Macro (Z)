@@ -1,0 +1,2 @@
+Key = Enum.KeyCode.Z -- If you want to change the keybind, change "Z" with something else
+loadstring(game:HttpGet("https://pastebin.com/raw/YkYju5rm", true))()
